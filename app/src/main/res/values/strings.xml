@@ -6,7 +6,7 @@
     <string name="button_calculate">Calculate</string>
 
     <string name="underweight_bodytype_desc">You are underweight, please start eating!</string>
-    <string name="normal_bodytype_desc">You are normal, eep doing whatever you are doing.</string>
+    <string name="normal_bodytype_desc">You are normal, keep doing whatever you are doing.</string>
     <string name="overweight_bodytype_desc">You are overweight, eat less.</string>
     <string name="obese_bodytype_desc">You are obese, that is not good, stop eating!</string>
     <string name="empty">Enter again!</string>
